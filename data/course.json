@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2015",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "legacy_uid": "13656f93-a995-b191-47c8-88b36e79e47c",
+  "instructors": {
+    "content": [
+      "08239700-ce43-5cb8-56d0-db29220e4cd6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e56a9aa6-e64a-d78e-013c-3afbd4cd0bb1",
+    "website": "18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015"
+  },
+  "course_title": "Undergraduate Seminar in Discrete Mathematics",
+  "course_description": "This course is a student-presented seminar in combinatorics, graph theory, and discrete mathematics in general. Instruction and practice in written and oral communication is emphasized, with participants reading and presenting papers from recent mathematics literature and writing a final paper in a related topic.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.304",
+  "course_image_thumbnail": {
+    "content": "0867f600-4bf5-ac92-8936-9a7fd9b71c39",
+    "website": "18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Projects with Examples",
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "88cfa8c2-b1cf-4ae7-aa03-9e3f3b07834d",
+  "site_short_id": "18.304-spring-2015",
+  "title": "Course Metadata"
+}
